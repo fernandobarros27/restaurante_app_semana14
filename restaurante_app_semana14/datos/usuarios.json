@@ -1,0 +1,23 @@
+[
+    {
+        "identificacion": "0923456789",
+        "nombre": "Administrador del Restaurante",
+        "correo": "admin@restauranteapp.com",
+        "usuario": "admin",
+        "password": "1234"
+    },
+    {
+        "identificacion": "0912345678",
+        "nombre": "María González",
+        "correo": "maria.gonzalez@restauranteapp.com",
+        "usuario": "maria",
+        "password": "1234"
+    },
+    {
+        "identificacion": "0909876543",
+        "nombre": "Carlos Zambrano",
+        "correo": "carlos.zambrano@restauranteapp.com",
+        "usuario": "carlos",
+        "password": "1234"
+    }
+]

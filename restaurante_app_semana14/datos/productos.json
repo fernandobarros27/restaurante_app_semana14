@@ -1,0 +1,44 @@
+[
+    {
+        "codigo": "P001",
+        "nombre": "Encebollado de pescado",
+        "categoria": "Platos fuertes",
+        "precio": 4.5,
+        "stock": 15
+    },
+    {
+        "codigo": "P002",
+        "nombre": "Arroz marinero",
+        "categoria": "Platos fuertes",
+        "precio": 8.5,
+        "stock": 10
+    },
+    {
+        "codigo": "P003",
+        "nombre": "Bolón mixto",
+        "categoria": "Desayunos",
+        "precio": 4.0,
+        "stock": 12
+    },
+    {
+        "codigo": "P004",
+        "nombre": "Jugo de maracuyá",
+        "categoria": "Bebidas",
+        "precio": 2.0,
+        "stock": 20
+    },
+    {
+        "codigo": "P005",
+        "nombre": "Tigrillo con queso",
+        "categoria": "Desayunos",
+        "precio": 3.75,
+        "stock": 8
+    },
+    {
+        "codigo": "P006",
+        "nombre": "Ceviche de camarón",
+        "categoria": "Platos fuertes",
+        "precio": 7.5,
+        "stock": 10
+    }
+]
